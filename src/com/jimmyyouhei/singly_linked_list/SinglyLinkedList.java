@@ -9,6 +9,7 @@ public class SinglyLinkedList {
     // the tail pointer of the LinkedList
     private Node tail;
 
+    
     // method to get head pointer in return
     public Node getHead() {
         return head;
