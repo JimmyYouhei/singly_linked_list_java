@@ -22,5 +22,5 @@ If you use IntelliJ IDEA use new -> Project From Version Control -> Git and past
 ## V.	Note:
 -	Due to the class is written purely for learning purpose so very little Exception handle is expected 
 ## VI.	License 
-MIT License
+[MIT License](https://github.com/JimmyYouhei/singly_linked_list_java/blob/master/LICENSE)
 
